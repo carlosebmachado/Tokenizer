@@ -4,8 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/Documentos/OneDrive/DESKTOP-UNI/LINGUAGENS%20FORMAIS/AC1%20-%20M2/Tokenizer/src/me/carlosmachado/tokenizer/front/MainForm.java</file>
-            <file>file:/D:/Documentos/OneDrive/DESKTOP-UNI/LINGUAGENS%20FORMAIS/AC1%20-%20M2/Tokenizer/src/me/carlosmachado/tokenizer/back/Parser.java</file>
             <file>file:/D:/Documentos/OneDrive/DESKTOP-UNI/LINGUAGENS%20FORMAIS/AC1%20-%20M2/Tokenizer/src/me/carlosmachado/tokenizer/back/Language.java</file>
+            <file>file:/D:/Documentos/OneDrive/DESKTOP-UNI/LINGUAGENS%20FORMAIS/AC1%20-%20M2/Tokenizer/src/me/carlosmachado/tokenizer/back/Response.java</file>
+            <file>file:/D:/Documentos/OneDrive/DESKTOP-UNI/LINGUAGENS%20FORMAIS/AC1%20-%20M2/Tokenizer/src/me/carlosmachado/tokenizer/back/Automata.java</file>
         </group>
     </open-files>
 </project-private>
